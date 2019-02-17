@@ -1,0 +1,11 @@
+git
+build-essential
+unzip
+software-properties-common
+libopus0
+ffmpeg
+libopus-dev
+libssl-dev
+libffi-dev
+libsodium-dev
+
